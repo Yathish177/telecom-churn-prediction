@@ -120,5 +120,4 @@ jupyter notebook notebooks/churn_analysis.ipynb
 ## Author
 
 **Yathish Kumar Surendra Kumar**
-MSc Information Systems — University College Dublin (2:1, 2025)
 [LinkedIn](https://linkedin.com/in/yathishkumar797) | [GitHub](https://github.com/YOUR_USERNAME)
